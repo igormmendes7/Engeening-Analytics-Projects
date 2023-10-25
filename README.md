@@ -1,4 +1,4 @@
-# Web-scrap-projects
+# Engeening-Analytics-projects
 Here are my Colabs and Dashboards that I created throughout my learning journey.
 
 Project: Payment card data of the Brazilian government - ptBr
